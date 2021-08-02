@@ -1,0 +1,9 @@
+{
+  "width": {
+    "units": ["em", "rem", "px"]
+  },
+  "style": ["solid",  "dashed"],
+  "color": {
+    "type": ["rgba", "hex", "hsla"]
+  }
+}
