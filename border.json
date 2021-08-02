@@ -1,9 +1,5 @@
 {
-  "width": {
-    "units": ["em", "rem", "px"]
-  },
+  "unit": ["em", "rem", "px", "vw", "vh"],
   "style": ["solid",  "dashed"],
-  "color": {
-    "type": ["rgba", "hex", "hsla"]
-  }
+  "color": ["color", "transparent", "initial", "inherit"]
 }
