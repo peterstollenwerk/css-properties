@@ -1,1 +1,1 @@
-# vue-styler
+# css-properties
