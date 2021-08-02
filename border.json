@@ -1,5 +1,5 @@
 {
-  "unit": ["em", "rem", "px", "vw", "vh"],
-  "style": ["solid",  "dashed"],
-  "color": ["color", "transparent", "initial", "inherit"]
+  "units": ["em", "rem", "px", "vw", "vh"],
+  "styles": ["solid",  "dashed"],
+  "colors": ["color", "transparent", "initial", "inherit"]
 }
